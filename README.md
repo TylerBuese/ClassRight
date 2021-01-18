@@ -1,2 +1,6 @@
 # ClassRight
-A publicly available learning engine intended for schools or individuals who may have unreliable internet connections. 
+<h2> This is ClassRight </h2>
+<p> ClassRight is a publically available learning engine. This engine is designed for teachers and individuals who want the perks of a typical paid learning engine (Q&A, Achievements, statistics, etc) without the exorbitant fees attached to them. ClassRight can be used as a cloud service, or a local appliance. </p>
+
+<h3> Roadmap </h3>
+<p> Click <a href="https://trello.com/b/mWfd5Gxr/classright"> here </a> to view the Trello board outlining ClassRight's roadmap. The project has not yet currently entered an alpha stage. Updates will be provided once the project is usable. </p>
