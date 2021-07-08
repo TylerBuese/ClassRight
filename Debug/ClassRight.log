@@ -1,0 +1,3 @@
+﻿     Creating library C:\Users\Tyler\source\repos\ClassRight\Debug\ClassRight.lib and object C:\Users\Tyler\source\repos\ClassRight\Debug\ClassRight.exp
+Mongoose.obj : error LNK2019: unresolved external symbol _mg_hash_sha256_v referenced in function _cs_digest
+C:\Users\Tyler\source\repos\ClassRight\Debug\ClassRight.exe : fatal error LNK1120: 1 unresolved externals
