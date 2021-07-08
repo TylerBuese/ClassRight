@@ -6,4 +6,4 @@
 <p> Click <a href="https://trello.com/b/mWfd5Gxr/classright"> here </a> to view the Trello board outlining ClassRight's roadmap. The project has not yet currently entered an alpha stage. Updates will be provided once the project is usable. </p>
 
 <h3> **Notice** </h3>
-<p> ClassRight is going through an overhaul, being written in C++ and Python. Please be patient while this overhaul is underway. I expect to be finished with the backend by October, 2021. </p>
+<p> ClassRight is going through an overhaul, being written in C/C++ and Python. Please be patient while this overhaul is underway. I expect to be finished with the backend by October, 2021. </p>
